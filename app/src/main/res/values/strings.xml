@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjemploSeguridad</string>
+    <string name="titulo">Practica usando permisos</string>
+    <string name="btllamada">Llamada</string>
+    <string name="btweb">ir a Web</string>
+    <string name="btemail">Email</string>
+</resources>
